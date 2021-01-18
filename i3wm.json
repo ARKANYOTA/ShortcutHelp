@@ -1,0 +1,65 @@
+{
+	"Infos": {
+		"Font": "FiraCode 8"
+	},
+	"Bordures":{
+		"$mod+u": "Bordure none",
+		"$mod+y": "Bordure pixel 1",
+		"$mod+n": "Bordure normal"
+	},
+	"Launch":{
+		"$mod+Return": "Lancer terminal",
+		"$mod+Shift+Return": "Lancer zsh",
+		"$mod+d": "Lancer dmenu_recency",
+		"$mod+z": "Lancer morc_menu",
+		"$mod+Ctrl+b": "Lancer bmenu",
+		"$mod+F2": "Lancer brave",
+		"$mod+F3": "Lancer pcmanfm",
+		"$mod+Shift+F3": "Lancer pcmanfm_pkexec",
+		"$mod+F5": "Lancer mocp",
+		"$mod+t": "Lancer  pkill picom",
+		"$mod+Ctrl+t": "Lancer picom -b",
+		"$mod+Shift+d": "Lancer killall dunst",
+		"Print": "Lancer i3-scrot",
+		"$mod+Print": "Lancer i3-scrot -w",
+		"$mod+Shift+Print": "Lancer i3-scrot -s",
+		"$mod+Shift+h": "Lancer help",
+		"$mod+Ctrl+x": "Lancer xkill"
+	},
+	"Kill App":{
+		"$mod+Shift+q": "kill",
+		"$mod+Shift+a": "kill"
+	},
+	"Launcher App":{
+		"Lanceur d'application":{
+			"self": "$mod+g",
+			"n": "Lancer Notable-1.8.4",
+			"a": "Lancer atom",
+			"c": "Lancer code",
+			"t": "Lancer urxvt",
+			"b": "Lancer brackets",
+			"Shift+n": "Lancer Notable-1.9.0",
+			"d": "Lancer Godot",
+			"i": "Lancer chromium-latest-linux"
+		}
+	},
+	"Keyboard":{
+		"Menu":{
+			"self": "$mod+c",
+			"f": "Changer Clavier fr",
+			"b": "Changer Clavier fr bepo",
+			"e": "Changer Clavier de"
+		}
+
+	},
+	"Windows":{
+		"$mod+Left": "focus left",
+		"$mod+Down": "focus down",
+		"$mod+Up": "focus up",
+		"$mod+Right": "focus right",
+		"$mod+Shift+Left": "move left",
+		"$mod+Shift+Down": "move down",
+		"$mod+Shift+Up": "move up",
+		"$mod+Shift+Right": "move right"
+	}
+}
